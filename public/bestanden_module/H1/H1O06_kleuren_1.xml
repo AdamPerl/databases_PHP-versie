@@ -1,0 +1,21 @@
+<?xml-stylesheet type="text/css" href="dierenarts_1.css"?>
+<praktijk>
+    <Kleur>
+        <Naam>Peru</Naam>
+        <R>205</R>
+        <G>133</G>
+        <B>63</B>
+    </Kleur>
+    <Kleur>
+        <Naam>Sienna</Naam>
+        <R>160</R>
+        <G>82</G>
+        <B>45</B>
+    </Kleur>   
+    <Kleur>
+        <Naam>Tan</Naam>
+        <R>210</R>
+        <G>180</G>
+        <B>140</B>
+    </Kleur>
+</praktijk>
