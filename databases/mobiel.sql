@@ -1,5 +1,24 @@
+<<<<<<< HEAD
 /*!40101 SET @saved_cs_client     = @@character_set_client */;
 /*!50503 SET character_set_client = utf8mb4 */;
+=======
+DROP DATABASE IF EXISTS `mobiel`;
+CREATE DATABASE `mobiel`;
+USE `mobiel`;
+
+CREATE TABLE `vrienden` (
+    `id` int AUTO_INCREMENT PRIMARY KEY,
+    `naam` text NOT NULL,
+    `plaats` text NOT NULL
+);
+
+CREATE TABLE `telefoons` (
+    `code` varchar(3) PRIMARY KEY,
+    `merk` text NOT NULL,
+    `type` varchar(16) NOT NULL
+);
+
+>>>>>>> 94f218e07614a3c814592ab04f95a9b438b01e63
 CREATE TABLE `aankopen` (
   `id` int NOT NULL,
   `code` varchar(3) NOT NULL,

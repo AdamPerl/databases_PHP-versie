@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /*!40101 SET @saved_cs_client     = @@character_set_client */;
 /*!50503 SET character_set_client = utf8mb4 */;
 CREATE TABLE `inschrijvingen` (
@@ -25,3 +26,6 @@ CREATE TABLE `vakken` (
   PRIMARY KEY (`vak`)
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
 /*!40101 SET character_set_client = @saved_cs_client */;
+=======
+DROP DATABASE IF EXISTS `examentraining`;
+>>>>>>> 94f218e07614a3c814592ab04f95a9b438b01e63
