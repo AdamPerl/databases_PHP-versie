@@ -30,4 +30,4 @@ CREATE TABLE `vrienden` (
   PRIMARY KEY (`id`)
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
 /*!40101 SET character_set_client = @saved_cs_client */;
-INSERT INTO `vrienden` (`id`, `naam`, `plaats`) VALUES (1,'Alan','Groningen'),(2,'Bob','Assen'),(3,'Christel','Heerlen'),(4,'Daphne','Groningen'),(5,'Eve','Heerlen'),(6,'Frits','Delft'),(7,'Gonny','Groningen'),(8,'Hajar','Emmen'),(9,'Ingo','Assen');
+INSERT INTO `vrienden` (`id`, `naam`, `plaats`) VALUES (1,'Alan','Groningen'),(2,'Bob','Assen'),(3,'Christel','Heerlen'),(4,'Daphne','Groningen'),(5,'Eve','Heerlen'),(6,'Frits','Delft'),(7,'Gonny','Groningen'),(8,'Hajar','Emmen'),(9,'Ingo','Assen'),(10,'ADAm','GRONINGNE');
